@@ -23,7 +23,7 @@
     background-image: url("amazon-logo.webp");
     background-size: cover;
     height:50px;
-    width:100%;
+    
    
 }
 
@@ -186,5 +186,38 @@
     width:70px
 
 }
+
+
+/* panel div start */
+
+.panel{
+    height:40px;
+    background-color: #222f3d;
+    display: flex;
+    align-items: center;
+    color:white;
+    justify-content: space-evenly;
+}
+
+.panel-option{
+    width:70%;
+    font-size:0.85rem;
+    
+}
+
+.panel-option p{
+    margin-left:15px;
+    font-weight: 525;
+    display:inline;
+
+
+}
+
+
+.panel-deals{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
 
 
