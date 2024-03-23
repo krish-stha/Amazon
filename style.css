@@ -561,3 +561,67 @@
 .border:hover{
     border:1.8px solid white;
 }
+
+
+/* ###footer start */
+footer{
+    margin-top: 14px;
+}
+
+/* panel-1 start */
+
+.foot-panel1{
+    background-color: #37475a;
+    color:white;
+    height:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+/* panel-2 start */
+
+
+.foot-panel2{
+    background-color: #222f3d;
+    color:white;
+    height:500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    margin-top: 40px;
+    font-weight: 600;
+}
+ul a{
+    display:block;
+    font-size:0.8rem;
+    color:#DDDDDD;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+
+/* panel-3 start */
+
+.foot-panel3{
+    background-color:black;
+    color:white;
+    border-top: 0.5px solid white;
+    height:70px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.logo{
+    background-image: url("amazon-logo.webp");
+    background-size: cover;
+    height:50px;
+    width:100px;
+    
+    
+}
