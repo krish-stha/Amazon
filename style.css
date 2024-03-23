@@ -27,13 +27,6 @@
    
 }
 
-.border{
-    border:1.8px solid transparent;
-}
-
-.border:hover{
-    border:1.8px solid white;
-}
 
 /** address*/
 
@@ -558,4 +551,13 @@
         margin:20px 20px 20px 20px;
         
     
+}
+
+
+.border{
+    border:1.8px solid transparent;
+}
+
+.border:hover{
+    border:1.8px solid white;
 }
